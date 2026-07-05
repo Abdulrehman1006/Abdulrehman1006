@@ -1,11 +1,8 @@
-- 👋 Hi, I’m @Abdulrehman1006
-- 👀 I’m interested in WEB DEVELOPMENT
-- 🌱 I’m currently learning MERN STACK
-- 📫 How to reach me iamabdulrehman910@gmail.com
-- 😄 Pronouns: Mani
-- ⚡ Fun fact: coding is headache
+### Hi, I'm @Abdulrehman1006 👋
 
-<!---
-Abdulrehman1006/Abdulrehman1006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* 🔭 I'm currently building **ProjEx** — an AI-powered project management app (Flutter + Firebase)
+* 🛠️ Also working on **PyTation** — a Python anti-pattern detector based on ICSE 2026 research
+* 💻 My stack: Flutter, Firebase, Python, JavaScript, HTML/CSS
+* 🌱 I'm currently learning the MERN stack
+* 📫 How to reach me: [iamabdulrehman910@gmail.com](mailto:iamabdulrehman910@gmail.com)
+* ⚡ Fun fact: I'd rather debug someone else's code than write documentation
